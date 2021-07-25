@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practice set 2</string>
+    <string name="team_a">Team A</string>
+    <string name="score">0</string>
+    <string name="team_b">Team B</string>
+    <string name="score_team_b">0</string>
+    <string name="three_pt">+3 points</string>
+    <string name="two_pt">+2 points</string>
+    <string name="free">Free throw</string>
+    <string name="reset">Reset</string>
+
+</resources>
